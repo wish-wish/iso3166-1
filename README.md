@@ -1,6 +1,7 @@
 # iso3166-1
 iso 3166-1 <br/>
-this repository is process && generate form https://github.com/wish-wish/TheFlags-CurrencySymbols
+this repository is process && generate form https://github.com/wish-wish/TheFlags-CurrencySymbols<br/>
+<br/>
 <br/>
 2、iso not in gbt<br/>
 AX,奥兰群岛/"Åland Islands"<br/>

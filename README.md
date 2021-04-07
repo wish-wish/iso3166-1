@@ -20,7 +20,7 @@ JE,泽西岛/Jersey<br/>
 152,荷属安的列斯,NETHERLANDS ANTILLES,AN,ANT,530,荷属安的列斯 Netherlands Antilles<br/>
 237,南斯拉夫,YUGOSLAVIA,YU,YUG,891,南斯拉夫联盟共和国 Federal Republic of Yugoslavia<br/>
 <br/>
-4、iso and the gbt not the same abbr.
+4、iso and the gbt not the same abbr.<br/>
 iso 3166-1<br/>
 TL,东帝汶/Timor-Leste<br/>
 CX,圣诞岛/"Christmas Island"<br/>
